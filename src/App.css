@@ -1,0 +1,22 @@
+.App{
+   margin: 10px; 
+}
+.searchDiv{
+    border: 1px solid lightgray;
+    padding: 10px;
+    border-radius: 5px;
+}
+.searchDiv form{
+    display: flex;
+    flex-direction: column;
+}
+.imageList{
+   columns: 250px 5;
+   column-gap: 10px;
+}
+.imageListİmg{
+    width: 100%;
+    margin-bottom: 10px;
+    border: 2px solid #ccc;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2)
+}

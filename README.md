@@ -23,4 +23,5 @@ Bu proje Unsplash'tan rastgele görseller getirip görüntüler. Unsplash'taki g
    ```sh
    git clone https://github.com/kullaniciadiniz/unsplash-random-image.git
 
-<img src="Ekran Görüntüsü 1.png" alt="alt text" width="320" height="180">
+<img src="Ekran Görüntüsü 1.png" alt="alt text" width="600" height="300"> <br>
+<img src="Ekran Görüntüsü 2.png" alt="alt text" width="600" height="300">
